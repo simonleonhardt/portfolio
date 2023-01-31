@@ -1,30 +1,23 @@
 
 
 let projectDetails = [
-    {name:"Project 1",
-    liveURL: "LIVE",
-    ghURL: "GITHUB",
-    imgSrc: "/Main/assets/cat.jpg"},
     {name:"The Undying Night",
     liveURL: "LIVE",
     ghURL: "https://github.com/simonleonhardt/theUndyingNight",
     imgSrc: "/Main/assets/undyingNight.png"},
+    {name:"Plane in Peril",
+    liveURL: "LIVE",
+    ghURL: "https://github.com/simonleonhardt/plane-in-peril",
+    imgSrc: "/Main/assets/planeInPeril.png"},
     {name:"Clash Royale API",
     liveURL: "LIVE",
     ghURL: "https://github.com/simonleonhardt/clash",
     imgSrc: "/Main/assets/clashRoyale.png"},
-    {name:"Plane in Peril",
+    {name:"Incredible Leaf Blower",
     liveURL: "LIVE",
-    ghURL: "GITHUB",
-    imgSrc: "/Main/assets/planeInPeril.png"},
-    {name:"Project 5",
-    liveURL: "LIVE",
-    ghURL: "GITHUB",
+    ghURL: "https://github.com/simonleonhardt/incredible-leaf-blower",
     imgSrc: ""},
-    {name:"Project 6",
-    liveURL: "LIVE",
-    ghURL: "GITHUB",
-    imgSrc: ""}
+    
 ]
 
 for(let i = 0; i < projectDetails.length; i++) {
