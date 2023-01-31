@@ -16,7 +16,7 @@ let projectDetails = [
     {name:"Incredible Leaf Blower",
     liveURL: "LIVE",
     ghURL: "https://github.com/simonleonhardt/incredible-leaf-blower",
-    imgSrc: ""},
+    imgSrc: "/Main/assets/incredibleLeafBlower.png"},
     
 ]
 
