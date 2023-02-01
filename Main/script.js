@@ -2,19 +2,19 @@
 
 let projectDetails = [
     {name:"The Undying Night",
-    liveURL: "LIVE",
+    liveURL: "http://simol.gitastudent.online/Main/theUndyingNight/",
     ghURL: "https://github.com/simonleonhardt/theUndyingNight",
     imgSrc: "/Main/assets/undyingNight.png"},
     {name:"Plane in Peril",
-    liveURL: "LIVE",
+    liveURL: "http://simol.gitastudent.online/Main/planeInPeril/",
     ghURL: "https://github.com/simonleonhardt/plane-in-peril",
     imgSrc: "/Main/assets/planeInPeril.png"},
     {name:"Clash Royale API",
-    liveURL: "LIVE",
+    liveURL: "http://simol.gitastudent.online/Main/clash/",
     ghURL: "https://github.com/simonleonhardt/clash",
     imgSrc: "/Main/assets/clashRoyale.png"},
     {name:"Incredible Leaf Blower",
-    liveURL: "LIVE",
+    liveURL: "http://simol.gitastudent.online/Main/incredibleLeafBlower/",
     ghURL: "https://github.com/simonleonhardt/incredible-leaf-blower",
     imgSrc: "/Main/assets/incredibleLeafBlower.png"},
     
